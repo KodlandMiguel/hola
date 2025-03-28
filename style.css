@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(228, 188, 78);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    h1 {
+               font-family: Comic Sans MS;
+                }
+}
+
+p{
+    padding: 2px 5px
+}
+header{
+    position: fixed;
+    padding: 40px 20%;
+    background-color: darkorange;
+    h1 {
+               font-family: Comic Sans MS;
+                }
+}
+
+header > *{
+    display: inline-block;
+    width: 500px;
+}
+
+h1{
+    margin-bottom: 12px;
+    color:blue
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 0 10px;
+}
+    
+.banner {
+    padding: 15% 10%;
+    color: rgb(250, 250, 250);
+    font-size: 60px ;
+}
+
+
+
+
+
+img{
+            width: 10%;
+            height: 20%;
+            top: 1;
+            z-index: -1;
+            position:;
+        }
+
+video{
+            position:fixed;
+            width: 25%;
+            height: 25%;
+            top: 1;
+            z-index: -1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
